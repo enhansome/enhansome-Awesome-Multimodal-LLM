@@ -1,44 +1,9 @@
 {
-  "items": [
-    {
-      "description": "A Survey on Multimodal Large Language Models, arxiv 2023 [project page]\nVision-Language Models for Vision Tasks: A Survey, arxiv 2023",
-      "items": [],
-      "title": "Survey Papers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Core Areas"
-    },
-    {
-      "description": "Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic, arxiv 2023 [code]\nPandaGPT: One Model To Instruction-Follow Them All, arxiv 2023 [code]\nShikra: Unleashing Multimodal LLM’s Referential Dialogue Magic, arxiv 2023 [code]\nMIMIC-IT: Multi-Modal In-Context Instruction Tuning, arxiv 2023 [code]\nLLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding, arxiv 2023 [code]\nMetaVL: Transferring In-Context Learning Ability From Language Models to Vision-Language Models, arxiv 2023\nmPLUG-Owl : Modularization Empowers Large Language Models with Multimodality, arxiv 2023 [code]\nInstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning, arxiv 2023 [code]\nBLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models, ICML 2023 [code]\nCheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models, arxiv 2023 [code]\nMultiModal-GPT: A Vision and Language Model for Dialogue with Humans, arxiv 2023 [code]\nLLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model, arxiv 2023 [code]\nLanguage Is Not All You Need: Aligning Perception with Language Models, arxiv 2023 [code]\nONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities, arxiv 2023 [code]\nX-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages, arxiv 2023 [code]\nVisual Instruction Tuning, arxiv 2023 [code]\nVisual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models, arxiv 2023 [code]\nPaLI: A Jointly-Scaled Multilingual Language-Image Model, ICLR 2023 [blog]\nGrounding Language Models to Images for Multimodal Inputs and Outputs, ICML 2023 [code]\nOFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework, ICML 2022 [code]\nFlamingo: a Visual Language Model for Few-Shot Learning, NeurIPS 2022",
-      "items": [],
-      "title": "Multimodal Understanding"
-    },
-    {
-      "description": "LISA: Reasoning Segmentation via Large Language Model, arxiv 2023 [code]\nContextual Object Detection with Multimodal Large Language Models, arxiv 2023 [code]\nKOSMOS-2: Grounding Multimodal Large Language Models to the World, arxiv 2023 [code]\nContextual Object Detection with Multimodal Large Language Models, arxiv 2023 [code]\nFast Segment Anything, arxiv 2023 [code]\nMulti-Modal Classifiers for Open-Vocabulary Object Detection, ICML 2023 [code]\nInstruction-ViT: Multi-Modal Prompts for Instruction Learning in ViT, arxiv 2023\nImages Speak in Images: A Generalist Painter for In-Context Visual Learning, arxiv 2023 [code]\nVideo-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding, arxiv 2023 [code]\nSegGPT: Segmenting Everything In Context, arxiv 2023 [code]\nVisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks, arxiv 2023 [code]\nMatcher: Segment Anything with One Shot Using All-Purpose Feature Matching, arxiv 2023\nPersonalize Segment Anything Model with One Shot, arxiv 2023 [code]\nSegment Anything, arxiv 2023 [code]\nUni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks, CVPR 2023 [code]\nA Generalist Framework for Panoptic Segmentation of Images and Videos, arxiv 2022\nA Unified Sequence Interface for Vision Tasks, NeurIPS 2022 [code]\nPix2seq: A language modeling framework for object detection, ICLR 2022 [code]",
-      "items": [],
-      "title": "Vision-Centric Understanding"
-    },
-    {
-      "description": "Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition, arxiv 2023 [code]\nRT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control, preprint [project page]\nVoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models, arxiv 2023 [project page]\nMotionGPT: Human Motion as a Foreign Language, arxiv 2023 [code]\nInstruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model, arxiv 2023 [code]\nPaLM-E: An Embodied Multimodal Language Model, arxiv 2023 [blog]\nGenerative Agents: Interactive Simulacra of Human Behavior, arxiv 2023\nVision-Language Models as Success Detectors, arxiv 2023\nTidyBot: Personalized Robot Assistance with Large Language Models, arxiv 2023 [code]\nLm-nav: Robotic navigation with large pre-trained models of language, vision, and action, CoRL 2022 [blog] [code]",
-      "items": [],
-      "title": "Embodied-Centric Understanding"
-    },
-    {
-      "description": "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day, arxiv 2023 [code]",
-      "items": [],
-      "title": "Domain-Specific Models"
-    },
-    {
-      "description": "LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark, arxiv 2023 [code]\nLOVM: Language-Only Vision Model Selection, arxiv 2023 [code]\nAccountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation, arxiv 2023 [project page]",
-      "items": [],
-      "title": "Multimodal Evaluation"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T22:45:55.157Z",
+    "last_updated": "2026-08-19T12:07:45.664Z",
     "original_repository": "vincentlux/Awesome-Multimodal-LLM",
+    "original_repository_id": 650013000,
     "original_repository_sha": "e2bb504cba75556c0ff888a50411357a67451739",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-LLM",
     "enhanced_repository_description": null,
