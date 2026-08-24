@@ -1,7 +1,707 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "M3IT: A Large-Scale Dataset towards Multi-Modal Multilingual Instruction Tuning, arxiv 2023 [data]\nLLaVA Instruction 150K, arxiv 2023 [data]",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Youku-mPLUG 10M",
+          "description": ", arxiv 2023 [data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 650086239,
+            "language": "Python",
+            "last_commit": "2024-01-08T14:27:49Z",
+            "owner": "X-PLUG",
+            "repo": "Youku-mPLUG",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MULTIINSTRUCT: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning",
+          "description": ", ACL 2023 [data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 638711345,
+            "language": "Python",
+            "last_commit": "2023-06-20T04:04:35Z",
+            "owner": "PLUM-Lab",
+            "repo": "MultiInstruct",
+            "stars": 135
+          }
+        }
+      ],
+      "title": "Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 658847441,
+                    "language": "Python",
+                    "last_commit": "2024-07-08T16:14:12Z",
+                    "owner": "shikras",
+                    "repo": "shikra",
+                    "stars": 816
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PandaGPT: One Model To Instruction-Follow Them All",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 642558250,
+                    "language": "Python",
+                    "last_commit": "2023-06-01T19:39:49Z",
+                    "owner": "yxuansu",
+                    "repo": "PandaGPT",
+                    "stars": 863
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 658847441,
+                    "language": "Python",
+                    "last_commit": "2024-07-08T16:14:12Z",
+                    "owner": "shikras",
+                    "repo": "shikra",
+                    "stars": 816
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MIMIC-IT: Multi-Modal In-Context Instruction Tuning",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 622202906,
+                    "language": "Python",
+                    "last_commit": "2024-03-05T15:56:06Z",
+                    "owner": "EvolvingLMMs-Lab",
+                    "repo": "Otter",
+                    "stars": 3435
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 659454689,
+                    "language": "Python",
+                    "last_commit": "2024-06-12T04:38:13Z",
+                    "owner": "SALT-NLP",
+                    "repo": "LLaVAR",
+                    "stars": 268
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "mPLUG-Owl : Modularization Empowers Large Language Models with Multimodality",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 632244130,
+                    "language": "Python",
+                    "last_commit": "2025-04-02T12:30:45Z",
+                    "owner": "X-PLUG",
+                    "repo": "mPLUG-Owl",
+                    "stars": 2539
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 528238131,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-06-02T18:14:49Z",
+                    "owner": "salesforce",
+                    "repo": "LAVIS",
+                    "stars": 11261
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+                  "description": ", ICML 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 528238131,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-06-02T18:14:49Z",
+                    "owner": "salesforce",
+                    "repo": "LAVIS",
+                    "stars": 11261
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 640913660,
+                    "language": "Python",
+                    "last_commit": "2024-01-27T15:00:22Z",
+                    "owner": "luogen1996",
+                    "repo": "LaVIN",
+                    "stars": 523
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MultiModal-GPT: A Vision and Language Model for Dialogue with Humans",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 632871496,
+                    "language": "Python",
+                    "last_commit": "2023-06-04T01:42:37Z",
+                    "owner": "open-mmlab",
+                    "repo": "Multimodal-GPT",
+                    "stars": 1512
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 653537620,
+                    "language": null,
+                    "last_commit": "2023-06-14T08:45:33Z",
+                    "owner": "ZrrSkywalker",
+                    "repo": "LLaMA-Adapter",
+                    "stars": 92
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Language Is Not All You Need: Aligning Perception with Language Models",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 198350484,
+                    "language": "Python",
+                    "last_commit": "2026-01-23T04:09:35Z",
+                    "owner": "microsoft",
+                    "repo": "unilm",
+                    "stars": 22195
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 642596800,
+                    "language": "Python",
+                    "last_commit": "2024-10-06T04:13:22Z",
+                    "owner": "OFA-Sys",
+                    "repo": "ONE-PEACE",
+                    "stars": 1060
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 632326136,
+                    "language": "Python",
+                    "last_commit": "2026-07-14T04:59:22Z",
+                    "owner": "phellonchen",
+                    "repo": "X-LLM",
+                    "stars": 316
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Visual Instruction Tuning",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 629102662,
+                    "language": "Python",
+                    "last_commit": "2024-08-12T09:52:38Z",
+                    "owner": "haotian-liu",
+                    "repo": "LLaVA",
+                    "stars": 25002
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 608555244,
+                    "language": "Python",
+                    "last_commit": "2024-01-06T02:41:20Z",
+                    "owner": "chenfei-wu",
+                    "repo": "TaskMatrix",
+                    "stars": 34006
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Grounding Language Models to Images for Multimodal Inputs and Outputs",
+                  "description": ", ICML 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 593850163,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-10-30T17:11:45Z",
+                    "owner": "kohjingyu",
+                    "repo": "fromage",
+                    "stars": 483
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework",
+                  "description": ", ICML 2022 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 453343381,
+                    "language": "Python",
+                    "last_commit": "2024-04-24T06:20:34Z",
+                    "owner": "OFA-Sys",
+                    "repo": "OFA",
+                    "stars": 2557
+                  }
+                }
+              ],
+              "description": "MetaVL: Transferring In-Context Learning Ability From Language Models to Vision-Language Models, arxiv 2023\nPaLI: A Jointly-Scaled Multilingual Language-Image Model, ICLR 2023 [blog]\nFlamingo: a Visual Language Model for Few-Shot Learning, NeurIPS 2022",
+              "node_type": "group",
+              "title": "Multimodal Understanding"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LISA: Reasoning Segmentation via Large Language Model",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 673431525,
+                    "language": "Python",
+                    "last_commit": "2025-02-16T13:33:08Z",
+                    "owner": "JIA-Lab-research",
+                    "repo": "LISA",
+                    "stars": 2672
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Contextual Object Detection with Multimodal Large Language Models",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 646800873,
+                    "language": "Python",
+                    "last_commit": "2024-10-14T07:35:36Z",
+                    "owner": "yuhangzang",
+                    "repo": "ContextDET",
+                    "stars": 261
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "KOSMOS-2: Grounding Multimodal Large Language Models to the World",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 198350484,
+                    "language": "Python",
+                    "last_commit": "2026-01-23T04:09:35Z",
+                    "owner": "microsoft",
+                    "repo": "unilm",
+                    "stars": 22195
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Contextual Object Detection with Multimodal Large Language Models",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 646800873,
+                    "language": "Python",
+                    "last_commit": "2024-10-14T07:35:36Z",
+                    "owner": "yuhangzang",
+                    "repo": "ContextDET",
+                    "stars": 261
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Fast Segment Anything",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 656455590,
+                    "language": "Python",
+                    "last_commit": "2024-07-30T13:35:06Z",
+                    "owner": "CASIA-LMC-Lab",
+                    "repo": "FastSAM",
+                    "stars": 8398
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Multi-Modal Classifiers for Open-Vocabulary Object Detection",
+                  "description": ", ICML 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 644931022,
+                    "language": "Python",
+                    "last_commit": "2023-06-22T01:09:07Z",
+                    "owner": "prannaykaul",
+                    "repo": "mm-ovod",
+                    "stars": 95
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Images Speak in Images: A Generalist Painter for In-Context Visual Learning",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 574615385,
+                    "language": "Python",
+                    "last_commit": "2024-12-06T02:39:02Z",
+                    "owner": "baaivision",
+                    "repo": "Painter",
+                    "stars": 2593
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 637126931,
+                    "language": "Python",
+                    "last_commit": "2024-06-04T07:06:41Z",
+                    "owner": "DAMO-NLP-SG",
+                    "repo": "Video-LLaMA",
+                    "stars": 3139
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SegGPT: Segmenting Everything In Context",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 574615385,
+                    "language": "Python",
+                    "last_commit": "2024-12-06T02:39:02Z",
+                    "owner": "baaivision",
+                    "repo": "Painter",
+                    "stars": 2593
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 642332004,
+                    "language": "Python",
+                    "last_commit": "2025-02-27T08:31:04Z",
+                    "owner": "OpenGVLab",
+                    "repo": "VisionLLM",
+                    "stars": 1153
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Personalize Segment Anything Model with One Shot",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 636385053,
+                    "language": "Python",
+                    "last_commit": "2024-07-22T15:13:43Z",
+                    "owner": "ZrrSkywalker",
+                    "repo": "Personalize-SAM",
+                    "stars": 1671
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Segment Anything",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 618058471,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-09-18T17:46:55Z",
+                    "owner": "facebookresearch",
+                    "repo": "segment-anything",
+                    "stars": 54755
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks",
+                  "description": ", CVPR 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 498185741,
+                    "language": "Python",
+                    "last_commit": "2025-08-14T01:55:55Z",
+                    "owner": "fundamentalvision",
+                    "repo": "Uni-Perceiver",
+                    "stars": 290
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "A Unified Sequence Interface for Vision Tasks",
+                  "description": ", NeurIPS 2022 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 467614064,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-11-07T08:25:57Z",
+                    "owner": "google-research",
+                    "repo": "pix2seq",
+                    "stars": 945
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Pix2seq: A language modeling framework for object detection",
+                  "description": ", ICLR 2022 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 467614064,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-11-07T08:25:57Z",
+                    "owner": "google-research",
+                    "repo": "pix2seq",
+                    "stars": 945
+                  }
+                }
+              ],
+              "description": "Instruction-ViT: Multi-Modal Prompts for Instruction Learning in ViT, arxiv 2023\nMatcher: Segment Anything with One Shot Using All-Purpose Feature Matching, arxiv 2023\nA Generalist Framework for Panoptic Segmentation of Images and Videos, arxiv 2022",
+              "node_type": "group",
+              "title": "Vision-Centric Understanding"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 671205575,
+                    "language": "Python",
+                    "last_commit": "2024-08-12T21:27:29Z",
+                    "owner": "real-stanford",
+                    "repo": "scalingup",
+                    "stars": 414
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MotionGPT: Human Motion as a Foreign Language",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 656030508,
+                    "language": "Python",
+                    "last_commit": "2025-07-01T18:22:15Z",
+                    "owner": "OpenMotionLab",
+                    "repo": "MotionGPT",
+                    "stars": 1959
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 642260087,
+                    "language": "Python",
+                    "last_commit": "2024-06-23T07:39:41Z",
+                    "owner": "OpenGVLab",
+                    "repo": "Instruct2Act",
+                    "stars": 374
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TidyBot: Personalized Robot Assistance with Large Language Models",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 633253641,
+                    "language": "Python",
+                    "last_commit": "2023-11-10T16:28:38Z",
+                    "owner": "jimmyyhwu",
+                    "repo": "tidybot",
+                    "stars": 696
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Lm-nav: Robotic navigation with large pre-trained models of language, vision, and action",
+                  "description": ", CoRL 2022 [blog] [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 508974190,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2025-01-14T02:20:54Z",
+                    "owner": "blazejosinski",
+                    "repo": "lm_nav",
+                    "stars": 270
+                  }
+                }
+              ],
+              "description": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control, preprint [project page]\nVoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models, arxiv 2023 [project page]\nPaLM-E: An Embodied Multimodal Language Model, arxiv 2023 [blog]\nGenerative Agents: Interactive Simulacra of Human Behavior, arxiv 2023\nVision-Language Models as Success Detectors, arxiv 2023",
+              "node_type": "group",
+              "title": "Embodied-Centric Understanding"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 643298473,
+                    "language": "Python",
+                    "last_commit": "2025-06-04T15:56:12Z",
+                    "owner": "microsoft",
+                    "repo": "LLaVA-Med",
+                    "stars": 2229
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Domain-Specific Models"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 650980216,
+                    "language": "Python",
+                    "last_commit": "2024-04-16T11:30:23Z",
+                    "owner": "OpenGVLab",
+                    "repo": "LAMM",
+                    "stars": 318
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LOVM: Language-Only Vision Model Selection",
+                  "description": ", arxiv 2023 [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 653794990,
+                    "language": "Python",
+                    "last_commit": "2024-02-03T18:08:06Z",
+                    "owner": "orrzohar",
+                    "repo": "LOVM",
+                    "stars": 21
+                  }
+                }
+              ],
+              "description": "Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation, arxiv 2023 [project page]",
+              "node_type": "group",
+              "title": "Multimodal Evaluation"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Core Areas"
+        }
+      ],
+      "title": "Research Papers"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T22:43:14.445Z",
+    "last_updated": "2026-08-24T14:49:05.673Z",
     "original_repository": "vincentlux/Awesome-Multimodal-LLM",
     "original_repository_id": 650013000,
     "original_repository_sha": "e2bb504cba75556c0ff888a50411357a67451739",
