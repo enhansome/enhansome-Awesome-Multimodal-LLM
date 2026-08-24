@@ -33,7 +33,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ## Survey Papers
 
-[A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549), arxiv 2023 [\[project page\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 17,988 | 🐛 111 | 📅 2026-08-21
+[A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549), arxiv 2023 [\[project page\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 17,988 | 🐛 110 | 📅 2026-08-21
 
 [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/abs/2304.00685), arxiv 2023
 
@@ -65,7 +65,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model](https://arxiv.org/abs/2304.15010), arxiv 2023 [\[code\]](https://github.com/ZrrSkywalker/LLaMA-Adapter) ⭐ 92 | 🐛 1 | 📅 2023-06-14
 
-[Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045v2), arxiv 2023 [\[code\]](https://github.com/microsoft/unilm) ⭐ 22,195 | 🐛 684 | 🌐 Python | 📅 2026-01-23
+[Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045v2), arxiv 2023 [\[code\]](https://github.com/microsoft/unilm) ⭐ 22,194 | 🐛 684 | 🌐 Python | 📅 2026-01-23
 
 [ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities](http://arxiv.org/abs/2305.11172), arxiv 2023 [\[code\]](https://github.com/OFA-Sys/ONE-PEACE) ⭐ 1,060 | 🐛 10 | 🌐 Python | 📅 2024-10-06
 
@@ -89,7 +89,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279), arxiv 2023 [\[code\]](https://github.com/yuhangzang/ContextDET) ⭐ 261 | 🐛 7 | 🌐 Python | 📅 2024-10-14
 
-[KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/abs/2306.14824), arxiv 2023 [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,195 | 🐛 684 | 🌐 Python | 📅 2026-01-23
+[KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/abs/2306.14824), arxiv 2023 [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,194 | 🐛 684 | 🌐 Python | 📅 2026-01-23
 
 [Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279), arxiv 2023 [\[code\]](https://github.com/yuhangzang/ContextDET) ⭐ 261 | 🐛 7 | 🌐 Python | 📅 2024-10-14
 
@@ -111,7 +111,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [Personalize Segment Anything Model with One Shot](https://arxiv.org/abs/2305.03048), arxiv 2023 [\[code\]](https://github.com/ZrrSkywalker/Personalize-SAM) ⭐ 1,671 | 🐛 40 | 🌐 Python | 📅 2024-07-22
 
-[Segment Anything](https://arxiv.org/abs/2304.02643), arxiv 2023 [\[code\]](https://github.com/facebookresearch/segment-anything) ⭐ 54,755 | 🐛 595 | 🌐 Jupyter Notebook | 📅 2024-09-18
+[Segment Anything](https://arxiv.org/abs/2304.02643), arxiv 2023 [\[code\]](https://github.com/facebookresearch/segment-anything) ⭐ 54,756 | 🐛 595 | 🌐 Jupyter Notebook | 📅 2024-09-18
 
 [Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks](https://arxiv.org/abs/2211.09808), CVPR 2023 [\[code\]](https://github.com/fundamentalvision/Uni-Perceiver) ⭐ 290 | 🐛 9 | 🌐 Python | 📅 2025-08-14
 
@@ -129,7 +129,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models](https://arxiv.org/abs/2307.05973), arxiv 2023 [\[project page\]](https://voxposer.github.io/)
 
-[MotionGPT: Human Motion as a Foreign Language](https://arxiv.org/abs//2306.14795), arxiv 2023 [\[code\]](https://github.com/OpenMotionLab/MotionGPT) ⭐ 1,959 | 🐛 72 | 🌐 Python | 📅 2025-07-01
+[MotionGPT: Human Motion as a Foreign Language](https://arxiv.org/abs//2306.14795), arxiv 2023 [\[code\]](https://github.com/OpenMotionLab/MotionGPT) ⭐ 1,960 | 🐛 72 | 🌐 Python | 📅 2025-07-01
 
 [Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model](https://arxiv.org/abs/2305.11176), arxiv 2023 [\[code\]](https://github.com/OpenGVLab/Instruct2Act) ⭐ 374 | 🐛 0 | 🌐 Python | 📅 2024-06-23
 
@@ -145,7 +145,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ### Domain-Specific Models
 
-[LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day](http://arxiv.org/abs/2306.00890), arxiv 2023 [\[code\]](https://github.com/microsoft/LLaVA-Med) ⭐ 2,229 | 🐛 107 | 🌐 Python | 📅 2025-06-04
+[LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day](http://arxiv.org/abs/2306.00890), arxiv 2023 [\[code\]](https://github.com/microsoft/LLaVA-Med) ⭐ 2,230 | 🐛 107 | 🌐 Python | 📅 2025-06-04
 
 ### Multimodal Evaluation
 

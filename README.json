@@ -220,7 +220,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22195
+                    "stars": 22194
                   }
                 },
                 {
@@ -362,7 +362,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22195
+                    "stars": 22194
                   }
                 },
                 {
@@ -497,7 +497,7 @@
                     "last_commit": "2024-09-18T17:46:55Z",
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54755
+                    "stars": 54756
                   }
                 },
                 {
@@ -579,7 +579,7 @@
                     "last_commit": "2025-07-01T18:22:15Z",
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 1959
+                    "stars": 1960
                   }
                 },
                 {
@@ -646,7 +646,7 @@
                     "last_commit": "2025-06-04T15:56:12Z",
                     "owner": "microsoft",
                     "repo": "LLaVA-Med",
-                    "stars": 2229
+                    "stars": 2230
                   }
                 }
               ],
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:49:05.673Z",
+    "last_updated": "2026-08-24T22:48:43.036Z",
     "original_repository": "vincentlux/Awesome-Multimodal-LLM",
     "original_repository_id": 650013000,
     "original_repository_sha": "e2bb504cba75556c0ff888a50411357a67451739",
