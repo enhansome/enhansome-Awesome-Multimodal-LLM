@@ -145,7 +145,7 @@
                     "last_commit": "2026-06-02T18:14:49Z",
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11260
+                    "stars": 11261
                   }
                 },
                 {
@@ -160,7 +160,7 @@
                     "last_commit": "2026-06-02T18:14:49Z",
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11260
+                    "stars": 11261
                   }
                 },
                 {
@@ -220,7 +220,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22193
+                    "stars": 22194
                   }
                 },
                 {
@@ -295,7 +295,7 @@
                     "last_commit": "2023-10-30T17:11:45Z",
                     "owner": "kohjingyu",
                     "repo": "fromage",
-                    "stars": 483
+                    "stars": 482
                   }
                 },
                 {
@@ -362,7 +362,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22193
+                    "stars": 22194
                   }
                 },
                 {
@@ -392,7 +392,7 @@
                     "last_commit": "2024-07-30T13:35:06Z",
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8399
+                    "stars": 8400
                   }
                 },
                 {
@@ -646,7 +646,7 @@
                     "last_commit": "2025-06-04T15:56:12Z",
                     "owner": "microsoft",
                     "repo": "LLaVA-Med",
-                    "stars": 2230
+                    "stars": 2231
                   }
                 }
               ],
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:38:46.760Z",
+    "last_updated": "2026-08-25T22:50:13.995Z",
     "original_repository": "vincentlux/Awesome-Multimodal-LLM",
     "original_repository_id": 650013000,
     "original_repository_sha": "e2bb504cba75556c0ff888a50411357a67451739",
