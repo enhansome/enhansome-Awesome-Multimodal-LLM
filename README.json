@@ -15,7 +15,7 @@
             "last_commit": "2024-01-08T14:27:49Z",
             "owner": "X-PLUG",
             "repo": "Youku-mPLUG",
-            "stars": 308
+            "stars": 309
           }
         },
         {
@@ -145,7 +145,7 @@
                     "last_commit": "2026-06-02T18:14:49Z",
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11261
+                    "stars": 11260
                   }
                 },
                 {
@@ -160,7 +160,7 @@
                     "last_commit": "2026-06-02T18:14:49Z",
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11261
+                    "stars": 11260
                   }
                 },
                 {
@@ -220,7 +220,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22193
                   }
                 },
                 {
@@ -332,7 +332,7 @@
                     "last_commit": "2025-02-16T13:33:08Z",
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2672
+                    "stars": 2673
                   }
                 },
                 {
@@ -362,7 +362,7 @@
                     "last_commit": "2026-01-23T04:09:35Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
+                    "stars": 22193
                   }
                 },
                 {
@@ -392,7 +392,7 @@
                     "last_commit": "2024-07-30T13:35:06Z",
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8398
+                    "stars": 8399
                   }
                 },
                 {
@@ -497,7 +497,7 @@
                     "last_commit": "2024-09-18T17:46:55Z",
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54756
+                    "stars": 54754
                   }
                 },
                 {
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:48:43.036Z",
+    "last_updated": "2026-08-25T06:38:46.760Z",
     "original_repository": "vincentlux/Awesome-Multimodal-LLM",
     "original_repository_id": 650013000,
     "original_repository_sha": "e2bb504cba75556c0ff888a50411357a67451739",
