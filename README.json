@@ -145,7 +145,7 @@
                     "last_commit": "2026-06-02T18:14:49Z",
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11262
+                    "stars": 11261
                   }
                 },
                 {
@@ -160,7 +160,7 @@
                     "last_commit": "2026-06-02T18:14:49Z",
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11262
+                    "stars": 11261
                   }
                 },
                 {
@@ -265,7 +265,7 @@
                     "last_commit": "2024-08-12T09:52:38Z",
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25001
+                    "stars": 25003
                   }
                 },
                 {
@@ -280,7 +280,7 @@
                     "last_commit": "2024-01-06T02:41:20Z",
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 34002
+                    "stars": 34001
                   }
                 },
                 {
@@ -497,7 +497,7 @@
                     "last_commit": "2024-09-18T17:46:55Z",
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54761
+                    "stars": 54766
                   }
                 },
                 {
@@ -701,9 +701,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:23:19.115Z",
-    "original_repository": "vincentlux/Awesome-Multimodal-LLM",
-    "original_repository_id": 650013000,
+    "last_updated": "2026-08-27T11:28:28.462Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 650013000,
+      "language": null,
+      "last_commit": "2023-08-17T02:26:26Z",
+      "owner": "vincentlux",
+      "repo": "Awesome-Multimodal-LLM",
+      "stars": 70
+    },
     "original_repository_sha": "e2bb504cba75556c0ff888a50411357a67451739",
     "enhanced_repository": "enhansome/enhansome-Awesome-Multimodal-LLM",
     "enhanced_repository_description": null,
