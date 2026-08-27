@@ -100,7 +100,7 @@
                     "last_commit": "2024-03-05T15:56:06Z",
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3435
+                    "stars": 3436
                   }
                 },
                 {
@@ -145,7 +145,7 @@
                     "last_commit": "2026-06-02T18:14:49Z",
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11261
+                    "stars": 11262
                   }
                 },
                 {
@@ -160,7 +160,7 @@
                     "last_commit": "2026-06-02T18:14:49Z",
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11261
+                    "stars": 11262
                   }
                 },
                 {
@@ -217,7 +217,7 @@
                     "archived": false,
                     "id": 198350484,
                     "language": "Python",
-                    "last_commit": "2026-01-23T04:09:35Z",
+                    "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22194
@@ -265,7 +265,7 @@
                     "last_commit": "2024-08-12T09:52:38Z",
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25002
+                    "stars": 25001
                   }
                 },
                 {
@@ -280,7 +280,7 @@
                     "last_commit": "2024-01-06T02:41:20Z",
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 34006
+                    "stars": 34002
                   }
                 },
                 {
@@ -332,7 +332,7 @@
                     "last_commit": "2025-02-16T13:33:08Z",
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2673
+                    "stars": 2674
                   }
                 },
                 {
@@ -359,7 +359,7 @@
                     "archived": false,
                     "id": 198350484,
                     "language": "Python",
-                    "last_commit": "2026-01-23T04:09:35Z",
+                    "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
                     "stars": 22194
@@ -392,7 +392,7 @@
                     "last_commit": "2024-07-30T13:35:06Z",
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8400
+                    "stars": 8401
                   }
                 },
                 {
@@ -497,7 +497,7 @@
                     "last_commit": "2024-09-18T17:46:55Z",
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54754
+                    "stars": 54761
                   }
                 },
                 {
@@ -579,7 +579,7 @@
                     "last_commit": "2025-07-01T18:22:15Z",
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 1960
+                    "stars": 1961
                   }
                 },
                 {
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:50:13.995Z",
+    "last_updated": "2026-08-27T03:23:19.115Z",
     "original_repository": "vincentlux/Awesome-Multimodal-LLM",
     "original_repository_id": 650013000,
     "original_repository_sha": "e2bb504cba75556c0ff888a50411357a67451739",
