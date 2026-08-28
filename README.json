@@ -16,7 +16,8 @@
             "owner": "X-PLUG",
             "repo": "Youku-mPLUG",
             "stars": 309
-          }
+          },
+          "first_seen": "2026-08-28T06:11:25.432Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "PLUM-Lab",
             "repo": "MultiInstruct",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-28T06:11:25.432Z"
         }
       ],
       "title": "Datasets"
@@ -56,7 +58,8 @@
                     "owner": "shikras",
                     "repo": "shikra",
                     "stars": 816
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -71,7 +74,8 @@
                     "owner": "yxuansu",
                     "repo": "PandaGPT",
                     "stars": 863
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -86,7 +90,8 @@
                     "owner": "shikras",
                     "repo": "shikra",
                     "stars": 816
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -101,7 +106,8 @@
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
                     "stars": 3436
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -116,7 +122,8 @@
                     "owner": "SALT-NLP",
                     "repo": "LLaVAR",
                     "stars": 268
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -131,7 +138,8 @@
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
                     "stars": 2539
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -146,7 +154,8 @@
                     "owner": "salesforce",
                     "repo": "LAVIS",
                     "stars": 11261
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -161,7 +170,8 @@
                     "owner": "salesforce",
                     "repo": "LAVIS",
                     "stars": 11261
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -176,7 +186,8 @@
                     "owner": "luogen1996",
                     "repo": "LaVIN",
                     "stars": 523
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -191,7 +202,8 @@
                     "owner": "open-mmlab",
                     "repo": "Multimodal-GPT",
                     "stars": 1512
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -206,7 +218,8 @@
                     "owner": "ZrrSkywalker",
                     "repo": "LLaMA-Adapter",
                     "stars": 92
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -220,8 +233,9 @@
                     "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
-                  }
+                    "stars": 22196
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -236,7 +250,8 @@
                     "owner": "OFA-Sys",
                     "repo": "ONE-PEACE",
                     "stars": 1060
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -251,7 +266,8 @@
                     "owner": "phellonchen",
                     "repo": "X-LLM",
                     "stars": 316
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -265,8 +281,9 @@
                     "last_commit": "2024-08-12T09:52:38Z",
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25003
-                  }
+                    "stars": 25005
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -280,8 +297,9 @@
                     "last_commit": "2024-01-06T02:41:20Z",
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 34001
-                  }
+                    "stars": 34000
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -296,7 +314,8 @@
                     "owner": "kohjingyu",
                     "repo": "fromage",
                     "stars": 482
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -311,7 +330,8 @@
                     "owner": "OFA-Sys",
                     "repo": "OFA",
                     "stars": 2557
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 }
               ],
               "description": "MetaVL: Transferring In-Context Learning Ability From Language Models to Vision-Language Models, arxiv 2023\nPaLI: A Jointly-Scaled Multilingual Language-Image Model, ICLR 2023 [blog]\nFlamingo: a Visual Language Model for Few-Shot Learning, NeurIPS 2022",
@@ -333,7 +353,8 @@
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
                     "stars": 2674
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -348,7 +369,8 @@
                     "owner": "yuhangzang",
                     "repo": "ContextDET",
                     "stars": 261
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -362,8 +384,9 @@
                     "last_commit": "2026-08-26T08:16:01Z",
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22194
-                  }
+                    "stars": 22196
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -378,7 +401,8 @@
                     "owner": "yuhangzang",
                     "repo": "ContextDET",
                     "stars": 261
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -393,7 +417,8 @@
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
                     "stars": 8401
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -408,7 +433,8 @@
                     "owner": "prannaykaul",
                     "repo": "mm-ovod",
                     "stars": 95
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -423,7 +449,8 @@
                     "owner": "baaivision",
                     "repo": "Painter",
                     "stars": 2593
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -438,7 +465,8 @@
                     "owner": "DAMO-NLP-SG",
                     "repo": "Video-LLaMA",
                     "stars": 3139
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -453,7 +481,8 @@
                     "owner": "baaivision",
                     "repo": "Painter",
                     "stars": 2593
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -467,8 +496,9 @@
                     "last_commit": "2025-02-27T08:31:04Z",
                     "owner": "OpenGVLab",
                     "repo": "VisionLLM",
-                    "stars": 1153
-                  }
+                    "stars": 1154
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -483,7 +513,8 @@
                     "owner": "ZrrSkywalker",
                     "repo": "Personalize-SAM",
                     "stars": 1671
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -497,8 +528,9 @@
                     "last_commit": "2024-09-18T17:46:55Z",
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54766
-                  }
+                    "stars": 54770
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -513,7 +545,8 @@
                     "owner": "fundamentalvision",
                     "repo": "Uni-Perceiver",
                     "stars": 290
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -528,7 +561,8 @@
                     "owner": "google-research",
                     "repo": "pix2seq",
                     "stars": 945
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -543,7 +577,8 @@
                     "owner": "google-research",
                     "repo": "pix2seq",
                     "stars": 945
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 }
               ],
               "description": "Instruction-ViT: Multi-Modal Prompts for Instruction Learning in ViT, arxiv 2023\nMatcher: Segment Anything with One Shot Using All-Purpose Feature Matching, arxiv 2023\nA Generalist Framework for Panoptic Segmentation of Images and Videos, arxiv 2022",
@@ -565,7 +600,8 @@
                     "owner": "real-stanford",
                     "repo": "scalingup",
                     "stars": 414
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -579,8 +615,9 @@
                     "last_commit": "2025-07-01T18:22:15Z",
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 1961
-                  }
+                    "stars": 1962
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -595,7 +632,8 @@
                     "owner": "OpenGVLab",
                     "repo": "Instruct2Act",
                     "stars": 374
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -609,8 +647,9 @@
                     "last_commit": "2023-11-10T16:28:38Z",
                     "owner": "jimmyyhwu",
                     "repo": "tidybot",
-                    "stars": 696
-                  }
+                    "stars": 695
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -625,7 +664,8 @@
                     "owner": "blazejosinski",
                     "repo": "lm_nav",
                     "stars": 270
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 }
               ],
               "description": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control, preprint [project page]\nVoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models, arxiv 2023 [project page]\nPaLM-E: An Embodied Multimodal Language Model, arxiv 2023 [blog]\nGenerative Agents: Interactive Simulacra of Human Behavior, arxiv 2023\nVision-Language Models as Success Detectors, arxiv 2023",
@@ -647,7 +687,8 @@
                     "owner": "microsoft",
                     "repo": "LLaVA-Med",
                     "stars": 2231
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 }
               ],
               "description": null,
@@ -669,7 +710,8 @@
                     "owner": "OpenGVLab",
                     "repo": "LAMM",
                     "stars": 318
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 },
                 {
                   "node_type": "item",
@@ -684,7 +726,8 @@
                     "owner": "orrzohar",
                     "repo": "LOVM",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:11:25.432Z"
                 }
               ],
               "description": "Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation, arxiv 2023 [project page]",
@@ -701,7 +744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:28:28.462Z",
+    "last_updated": "2026-08-28T06:11:25.432Z",
     "original_repository_info": {
       "archived": false,
       "id": 650013000,
