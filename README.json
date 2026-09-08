@@ -251,7 +251,7 @@
                     "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11261,
+                    "stars": 11262,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -284,7 +284,7 @@
                     "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11261,
+                    "stars": 11262,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -385,10 +385,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T08:16:01Z",
-                    "open_issues": 684,
+                    "open_issues": 685,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22204,
+                    "stars": 22206,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -516,7 +516,7 @@
                     "open_issues": 261,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33987,
+                    "stars": 33986,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -650,10 +650,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T08:16:01Z",
-                    "open_issues": 684,
+                    "open_issues": 685,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22204,
+                    "stars": 22206,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -895,7 +895,7 @@
                     "open_issues": 594,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54816,
+                    "stars": 54833,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:04:39.464Z",
+    "last_updated": "2026-09-08T00:31:14.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
