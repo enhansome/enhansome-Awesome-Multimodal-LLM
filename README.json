@@ -209,7 +209,7 @@
                     "open_issues": 101,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
-                    "stars": 2538,
+                    "stars": 2539,
                     "topics": [
                       "alpaca",
                       "chatbot",
@@ -338,7 +338,7 @@
                     "open_issues": 22,
                     "owner": "open-mmlab",
                     "repo": "Multimodal-GPT",
-                    "stars": 1512,
+                    "stars": 1511,
                     "topics": [
                       "flamingo",
                       "gpt",
@@ -388,7 +388,7 @@
                     "open_issues": 685,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22208,
+                    "stars": 22212,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -516,7 +516,7 @@
                     "open_issues": 261,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33986,
+                    "stars": 33985,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -603,7 +603,7 @@
                     "open_issues": 115,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2675,
+                    "stars": 2677,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -653,7 +653,7 @@
                     "open_issues": 685,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22208,
+                    "stars": 22212,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -719,7 +719,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8408,
+                    "stars": 8409,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -895,7 +895,7 @@
                     "open_issues": 594,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54840,
+                    "stars": 54846,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T00:15:34.189Z",
+    "last_updated": "2026-09-12T00:23:24.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
