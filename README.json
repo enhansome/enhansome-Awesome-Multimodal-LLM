@@ -385,10 +385,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T08:16:01Z",
-                    "open_issues": 685,
+                    "open_issues": 686,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22213,
+                    "stars": 22214,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -516,7 +516,7 @@
                     "open_issues": 261,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33984,
+                    "stars": 33983,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -650,10 +650,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-08-26T08:16:01Z",
-                    "open_issues": 685,
+                    "open_issues": 686,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22213,
+                    "stars": 22214,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -1025,7 +1025,7 @@
                     "open_issues": 72,
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 1969,
+                    "stars": 1970,
                     "topics": [
                       "3d-generation",
                       "chatgpt",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T00:03:53.107Z",
+    "last_updated": "2026-09-14T00:16:53.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
