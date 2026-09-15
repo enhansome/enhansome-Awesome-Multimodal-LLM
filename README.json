@@ -248,7 +248,7 @@
                     "language": "Jupyter Notebook",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-06-02T18:14:49Z",
-                    "open_issues": 499,
+                    "open_issues": 500,
                     "owner": "salesforce",
                     "repo": "LAVIS",
                     "stars": 11266,
@@ -281,7 +281,7 @@
                     "language": "Jupyter Notebook",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-06-02T18:14:49Z",
-                    "open_issues": 499,
+                    "open_issues": 500,
                     "owner": "salesforce",
                     "repo": "LAVIS",
                     "stars": 11266,
@@ -388,7 +388,7 @@
                     "open_issues": 686,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22214,
+                    "stars": 22215,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -427,7 +427,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-10-06T04:13:22Z",
-                    "open_issues": 10,
+                    "open_issues": 11,
                     "owner": "OFA-Sys",
                     "repo": "ONE-PEACE",
                     "stars": 1060,
@@ -478,10 +478,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2024-08-12T09:52:38Z",
-                    "open_issues": 1140,
+                    "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25019,
+                    "stars": 25021,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 261,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33983,
+                    "stars": 33981,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -603,7 +603,7 @@
                     "open_issues": 115,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2677,
+                    "stars": 2678,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -653,7 +653,7 @@
                     "open_issues": 686,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22214,
+                    "stars": 22215,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -719,7 +719,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8409,
+                    "stars": 8410,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -895,7 +895,7 @@
                     "open_issues": 594,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54854,
+                    "stars": 54862,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1025,7 +1025,7 @@
                     "open_issues": 72,
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 1970,
+                    "stars": 1972,
                     "topics": [
                       "3d-generation",
                       "chatgpt",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:16:53.920Z",
+    "last_updated": "2026-09-15T00:42:24.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
