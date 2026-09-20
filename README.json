@@ -146,7 +146,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3440,
+                    "stars": 3439,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -251,7 +251,7 @@
                     "open_issues": 500,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11267,
+                    "stars": 11266,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -284,7 +284,7 @@
                     "open_issues": 500,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11267,
+                    "stars": 11266,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -481,7 +481,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25028,
+                    "stars": 25029,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 261,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33979,
+                    "stars": 33977,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -603,7 +603,7 @@
                     "open_issues": 115,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2681,
+                    "stars": 2682,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -719,7 +719,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8412,
+                    "stars": 8413,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -761,7 +761,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2596,
+                    "stars": 2595,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -820,7 +820,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2596,
+                    "stars": 2595,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -874,7 +874,7 @@
                     "open_issues": 40,
                     "owner": "ZrrSkywalker",
                     "repo": "Personalize-SAM",
-                    "stars": 1674,
+                    "stars": 1673,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -892,10 +892,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2024-09-18T17:46:55Z",
-                    "open_issues": 594,
+                    "open_issues": 595,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54881,
+                    "stars": 54884,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1025,7 +1025,7 @@
                     "open_issues": 72,
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 1973,
+                    "stars": 1974,
                     "topics": [
                       "3d-generation",
                       "chatgpt",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:25:32.759Z",
+    "last_updated": "2026-09-20T00:11:11.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
