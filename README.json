@@ -146,7 +146,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3439,
+                    "stars": 3441,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -481,7 +481,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25029,
+                    "stars": 25032,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -603,7 +603,7 @@
                     "open_issues": 115,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2682,
+                    "stars": 2683,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -895,7 +895,7 @@
                     "open_issues": 595,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54884,
+                    "stars": 54894,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1110,7 +1110,7 @@
                     "open_issues": 2,
                     "owner": "blazejosinski",
                     "repo": "lm_nav",
-                    "stars": 270,
+                    "stars": 271,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T00:11:11.545Z",
+    "last_updated": "2026-09-21T00:19:27.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
