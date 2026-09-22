@@ -251,7 +251,7 @@
                     "open_issues": 500,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11266,
+                    "stars": 11265,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -284,7 +284,7 @@
                     "open_issues": 500,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11266,
+                    "stars": 11265,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -384,11 +384,11 @@
                     "id": 198350484,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T10:47:48Z",
-                    "open_issues": 686,
+                    "last_commit": "2026-09-21T03:27:00Z",
+                    "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22220,
+                    "stars": 22225,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -513,10 +513,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2024-01-06T02:41:20Z",
-                    "open_issues": 261,
+                    "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33977,
+                    "stars": 33975,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -563,7 +563,7 @@
                     "open_issues": 113,
                     "owner": "OFA-Sys",
                     "repo": "OFA",
-                    "stars": 2556,
+                    "stars": 2555,
                     "topics": [
                       "chinese",
                       "image-captioning",
@@ -649,11 +649,11 @@
                     "id": 198350484,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T10:47:48Z",
-                    "open_issues": 686,
+                    "last_commit": "2026-09-21T03:27:00Z",
+                    "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22220,
+                    "stars": 22225,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -761,7 +761,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2595,
+                    "stars": 2596,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -790,7 +790,7 @@
                     "open_issues": 69,
                     "owner": "DAMO-NLP-SG",
                     "repo": "Video-LLaMA",
-                    "stars": 3142,
+                    "stars": 3141,
                     "topics": [
                       "blip2",
                       "cross-modal-pretraining",
@@ -820,7 +820,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2595,
+                    "stars": 2596,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -895,7 +895,7 @@
                     "open_issues": 595,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54894,
+                    "stars": 54902,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:19:27.399Z",
+    "last_updated": "2026-09-22T00:55:34.710Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
