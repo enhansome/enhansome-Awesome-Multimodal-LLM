@@ -83,7 +83,7 @@
                     "open_issues": 48,
                     "owner": "shikras",
                     "repo": "shikra",
-                    "stars": 815,
+                    "stars": 816,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -104,7 +104,7 @@
                     "open_issues": 25,
                     "owner": "yxuansu",
                     "repo": "PandaGPT",
-                    "stars": 864,
+                    "stars": 865,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -125,7 +125,7 @@
                     "open_issues": 48,
                     "owner": "shikras",
                     "repo": "shikra",
-                    "stars": 815,
+                    "stars": 816,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -388,7 +388,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22227,
+                    "stars": 22228,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -481,7 +481,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25035,
+                    "stars": 25037,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33975,
+                    "stars": 33973,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -653,7 +653,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22227,
+                    "stars": 22228,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -849,7 +849,7 @@
                     "open_issues": 20,
                     "owner": "OpenGVLab",
                     "repo": "VisionLLM",
-                    "stars": 1154,
+                    "stars": 1153,
                     "topics": [
                       "generalist-model",
                       "large-language-models",
@@ -895,7 +895,7 @@
                     "open_issues": 595,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54914,
+                    "stars": 54931,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:44:03.458Z",
+    "last_updated": "2026-09-24T00:36:29.992Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
