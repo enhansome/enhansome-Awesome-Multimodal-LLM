@@ -388,7 +388,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22228,
+                    "stars": 22226,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -481,7 +481,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25039,
+                    "stars": 25041,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -603,7 +603,7 @@
                     "open_issues": 115,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2681,
+                    "stars": 2682,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -653,7 +653,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22228,
+                    "stars": 22226,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -719,7 +719,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8414,
+                    "stars": 8415,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -895,7 +895,7 @@
                     "open_issues": 595,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54940,
+                    "stars": 54943,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:41:41.023Z",
+    "last_updated": "2026-09-27T00:42:34.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
