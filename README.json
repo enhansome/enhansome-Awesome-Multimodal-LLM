@@ -146,7 +146,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3440,
+                    "stars": 3441,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -481,7 +481,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25041,
+                    "stars": 25043,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33978,
+                    "stars": 33977,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -603,7 +603,7 @@
                     "open_issues": 115,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2682,
+                    "stars": 2683,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -849,7 +849,7 @@
                     "open_issues": 20,
                     "owner": "OpenGVLab",
                     "repo": "VisionLLM",
-                    "stars": 1153,
+                    "stars": 1154,
                     "topics": [
                       "generalist-model",
                       "large-language-models",
@@ -895,7 +895,7 @@
                     "open_issues": 595,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54943,
+                    "stars": 54944,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T00:42:34.536Z",
+    "last_updated": "2026-09-28T00:55:17.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
