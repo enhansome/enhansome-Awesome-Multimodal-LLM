@@ -251,7 +251,7 @@
                     "open_issues": 500,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11262,
+                    "stars": 11261,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -284,7 +284,7 @@
                     "open_issues": 500,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11262,
+                    "stars": 11261,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -388,7 +388,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22229,
+                    "stars": 22227,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -430,7 +430,7 @@
                     "open_issues": 11,
                     "owner": "OFA-Sys",
                     "repo": "ONE-PEACE",
-                    "stars": 1060,
+                    "stars": 1061,
                     "topics": [
                       "audio-language",
                       "contrastive-loss",
@@ -481,7 +481,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25054,
+                    "stars": 25056,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33975,
+                    "stars": 33974,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -653,7 +653,7 @@
                     "open_issues": 687,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22229,
+                    "stars": 22227,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -716,7 +716,7 @@
                     "language": "Python",
                     "license": "AGPL-3.0",
                     "last_commit": "2024-07-30T13:35:06Z",
-                    "open_issues": 148,
+                    "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
                     "stars": 8417,
@@ -761,7 +761,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2598,
+                    "stars": 2599,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -820,7 +820,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2598,
+                    "stars": 2599,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -895,7 +895,7 @@
                     "open_issues": 595,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54963,
+                    "stars": 54961,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1110,7 +1110,7 @@
                     "open_issues": 2,
                     "owner": "blazejosinski",
                     "repo": "lm_nav",
-                    "stars": 271,
+                    "stars": 272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1187,7 +1187,7 @@
                     "open_issues": 2,
                     "owner": "orrzohar",
                     "repo": "LOVM",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": [
                       "model-selection",
                       "multimodal-deep-learning",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:43:21.326Z",
+    "last_updated": "2026-10-03T01:14:46.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
