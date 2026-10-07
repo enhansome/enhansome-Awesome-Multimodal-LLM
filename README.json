@@ -251,7 +251,7 @@
                     "open_issues": 500,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11261,
+                    "stars": 11262,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -284,7 +284,7 @@
                     "open_issues": 500,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11261,
+                    "stars": 11262,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -388,7 +388,7 @@
                     "open_issues": 688,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22227,
+                    "stars": 22228,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -481,7 +481,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25057,
+                    "stars": 25059,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33971,
+                    "stars": 33968,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -653,7 +653,7 @@
                     "open_issues": 688,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22227,
+                    "stars": 22228,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -719,7 +719,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8419,
+                    "stars": 8420,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -761,7 +761,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2599,
+                    "stars": 2598,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -820,7 +820,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2599,
+                    "stars": 2598,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -937,7 +937,7 @@
                     "open_issues": 31,
                     "owner": "google-research",
                     "repo": "pix2seq",
-                    "stars": 945,
+                    "stars": 944,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -965,7 +965,7 @@
                     "open_issues": 31,
                     "owner": "google-research",
                     "repo": "pix2seq",
-                    "stars": 945,
+                    "stars": 944,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -1057,7 +1057,7 @@
                     "open_issues": 0,
                     "owner": "OpenGVLab",
                     "repo": "Instruct2Act",
-                    "stars": 375,
+                    "stars": 376,
                     "topics": [
                       "chatgpt",
                       "clip",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:35:28.597Z",
+    "last_updated": "2026-10-07T01:39:55.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
