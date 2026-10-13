@@ -209,7 +209,7 @@
                     "open_issues": 101,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
-                    "stars": 2538,
+                    "stars": 2539,
                     "topics": [
                       "alpaca",
                       "chatbot",
@@ -430,7 +430,7 @@
                     "open_issues": 11,
                     "owner": "OFA-Sys",
                     "repo": "ONE-PEACE",
-                    "stars": 1061,
+                    "stars": 1060,
                     "topics": [
                       "audio-language",
                       "contrastive-loss",
@@ -481,7 +481,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25060,
+                    "stars": 25062,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33955,
+                    "stars": 33954,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -603,7 +603,7 @@
                     "open_issues": 115,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2684,
+                    "stars": 2685,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -895,7 +895,7 @@
                     "open_issues": 595,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54986,
+                    "stars": 54991,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1000,7 +1000,7 @@
                     "open_issues": 8,
                     "owner": "real-stanford",
                     "repo": "scalingup",
-                    "stars": 413,
+                    "stars": 412,
                     "topics": [
                       "language-model",
                       "robotics",
@@ -1138,7 +1138,7 @@
                     "open_issues": 107,
                     "owner": "microsoft",
                     "repo": "LLaVA-Med",
-                    "stars": 2234,
+                    "stars": 2233,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1166,7 +1166,7 @@
                     "open_issues": 9,
                     "owner": "OpenGVLab",
                     "repo": "LAMM",
-                    "stars": 318,
+                    "stars": 319,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:25:33.927Z",
+    "last_updated": "2026-10-13T03:04:48.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
