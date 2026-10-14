@@ -146,7 +146,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3445,
+                    "stars": 3444,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -179,7 +179,7 @@
                     "open_issues": 3,
                     "owner": "SALT-NLP",
                     "repo": "LLaVAR",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -209,7 +209,7 @@
                     "open_issues": 101,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
-                    "stars": 2539,
+                    "stars": 2540,
                     "topics": [
                       "alpaca",
                       "chatbot",
@@ -385,10 +385,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-21T03:27:00Z",
-                    "open_issues": 688,
+                    "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22230,
+                    "stars": 22235,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -481,7 +481,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25062,
+                    "stars": 25065,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33954,
+                    "stars": 33955,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -650,10 +650,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-21T03:27:00Z",
-                    "open_issues": 688,
+                    "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22230,
+                    "stars": 22235,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -761,7 +761,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2599,
+                    "stars": 2600,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -820,7 +820,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2599,
+                    "stars": 2600,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -892,10 +892,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2024-09-18T17:46:55Z",
-                    "open_issues": 595,
+                    "open_issues": 596,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 54991,
+                    "stars": 54993,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1025,7 +1025,7 @@
                     "open_issues": 72,
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 1976,
+                    "stars": 1977,
                     "topics": [
                       "3d-generation",
                       "chatgpt",
@@ -1057,7 +1057,7 @@
                     "open_issues": 0,
                     "owner": "OpenGVLab",
                     "repo": "Instruct2Act",
-                    "stars": 376,
+                    "stars": 377,
                     "topics": [
                       "chatgpt",
                       "clip",
@@ -1138,7 +1138,7 @@
                     "open_issues": 107,
                     "owner": "microsoft",
                     "repo": "LLaVA-Med",
-                    "stars": 2233,
+                    "stars": 2234,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:04:48.687Z",
+    "last_updated": "2026-10-14T01:17:05.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
