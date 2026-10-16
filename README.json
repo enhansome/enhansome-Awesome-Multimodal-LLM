@@ -83,7 +83,7 @@
                     "open_issues": 48,
                     "owner": "shikras",
                     "repo": "shikra",
-                    "stars": 815,
+                    "stars": 814,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -125,7 +125,7 @@
                     "open_issues": 48,
                     "owner": "shikras",
                     "repo": "shikra",
-                    "stars": 815,
+                    "stars": 814,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -388,7 +388,7 @@
                     "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22234,
+                    "stars": 22238,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -481,7 +481,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25068,
+                    "stars": 25067,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33956,
+                    "stars": 33954,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -563,7 +563,7 @@
                     "open_issues": 113,
                     "owner": "OFA-Sys",
                     "repo": "OFA",
-                    "stars": 2553,
+                    "stars": 2552,
                     "topics": [
                       "chinese",
                       "image-captioning",
@@ -603,7 +603,7 @@
                     "open_issues": 115,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2685,
+                    "stars": 2686,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -653,7 +653,7 @@
                     "open_issues": 689,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22234,
+                    "stars": 22238,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -719,7 +719,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8423,
+                    "stars": 8424,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -895,7 +895,7 @@
                     "open_issues": 596,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 55003,
+                    "stars": 55017,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1084,7 +1084,7 @@
                     "open_issues": 0,
                     "owner": "jimmyyhwu",
                     "repo": "tidybot",
-                    "stars": 694,
+                    "stars": 693,
                     "topics": [
                       "gpt-3",
                       "large-language-models",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:36:58.424Z",
+    "last_updated": "2026-10-16T00:30:06.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
