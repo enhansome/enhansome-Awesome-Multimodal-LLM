@@ -248,10 +248,10 @@
                     "language": "Jupyter Notebook",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-18T09:59:39Z",
-                    "open_issues": 500,
+                    "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11258,
+                    "stars": 11257,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -281,10 +281,10 @@
                     "language": "Jupyter Notebook",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-09-18T09:59:39Z",
-                    "open_issues": 500,
+                    "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11258,
+                    "stars": 11257,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -481,7 +481,7 @@
                     "open_issues": 1141,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25069,
+                    "stars": 25070,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33953,
+                    "stars": 33952,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -563,7 +563,7 @@
                     "open_issues": 113,
                     "owner": "OFA-Sys",
                     "repo": "OFA",
-                    "stars": 2552,
+                    "stars": 2553,
                     "topics": [
                       "chinese",
                       "image-captioning",
@@ -761,7 +761,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2600,
+                    "stars": 2599,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -820,7 +820,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2600,
+                    "stars": 2599,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -874,7 +874,7 @@
                     "open_issues": 40,
                     "owner": "ZrrSkywalker",
                     "repo": "Personalize-SAM",
-                    "stars": 1673,
+                    "stars": 1674,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -895,7 +895,7 @@
                     "open_issues": 596,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 55030,
+                    "stars": 55033,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1025,7 +1025,7 @@
                     "open_issues": 72,
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 1978,
+                    "stars": 1979,
                     "topics": [
                       "3d-generation",
                       "chatgpt",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:36:14.031Z",
+    "last_updated": "2026-10-18T00:06:31.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
