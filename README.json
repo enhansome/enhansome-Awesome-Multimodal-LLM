@@ -338,7 +338,7 @@
                     "open_issues": 22,
                     "owner": "open-mmlab",
                     "repo": "Multimodal-GPT",
-                    "stars": 1511,
+                    "stars": 1512,
                     "topics": [
                       "flamingo",
                       "gpt",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33946,
+                    "stars": 33945,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -719,7 +719,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8425,
+                    "stars": 8426,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -895,7 +895,7 @@
                     "open_issues": 596,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 55041,
+                    "stars": 55042,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1025,7 +1025,7 @@
                     "open_issues": 72,
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 1983,
+                    "stars": 1984,
                     "topics": [
                       "3d-generation",
                       "chatgpt",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:41:29.385Z",
+    "last_updated": "2026-10-22T00:45:06.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
