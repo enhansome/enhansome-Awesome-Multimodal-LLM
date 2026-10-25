@@ -65,13 +65,13 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model](https://arxiv.org/abs/2304.15010), arxiv 2023 [\[code\]](https://github.com/ZrrSkywalker/LLaMA-Adapter) ⭐ 93 | 🐛 1 | 📅 2023-06-14
 
-[Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045v2), arxiv 2023 [\[code\]](https://github.com/microsoft/unilm) ⭐ 22,235 | 🐛 689 | 🌐 Python | 📅 2026-09-21
+[Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045v2), arxiv 2023 [\[code\]](https://github.com/microsoft/unilm) ⭐ 22,234 | 🐛 689 | 🌐 Python | 📅 2026-09-21
 
 [ONE-PEACE: Exploring One General Representation Model Toward Unlimited Modalities](http://arxiv.org/abs/2305.11172), arxiv 2023 [\[code\]](https://github.com/OFA-Sys/ONE-PEACE) ⭐ 1,060 | 🐛 11 | 🌐 Python | 📅 2024-10-06
 
 [X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages](https://arxiv.org/abs/2305.04160), arxiv 2023 [\[code\]](https://github.com/phellonchen/X-LLM) ⭐ 316 | 🐛 15 | 🌐 Python | 📅 2026-07-14
 
-[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485), arxiv 2023 [\[code\]](https://github.com/haotian-liu/LLaVA) ⭐ 25,073 | 🐛 1,141 | 🌐 Python | 📅 2024-08-12
+[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485), arxiv 2023 [\[code\]](https://github.com/haotian-liu/LLaVA) ⭐ 25,076 | 🐛 1,141 | 🌐 Python | 📅 2024-08-12
 
 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671), arxiv 2023 [\[code\]](https://github.com/microsoft/TaskMatrix) ⭐ 33,941 | 🐛 262 | 🌐 Python | 📅 2024-01-06
 
@@ -89,11 +89,11 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279), arxiv 2023 [\[code\]](https://github.com/yuhangzang/ContextDET) ⭐ 261 | 🐛 7 | 🌐 Python | 📅 2024-10-14
 
-[KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/abs/2306.14824), arxiv 2023 [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,235 | 🐛 689 | 🌐 Python | 📅 2026-09-21
+[KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/abs/2306.14824), arxiv 2023 [\[code\]](https://github.com/microsoft/unilm/tree/master/kosmos-2) ⭐ 22,234 | 🐛 689 | 🌐 Python | 📅 2026-09-21
 
 [Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279), arxiv 2023 [\[code\]](https://github.com/yuhangzang/ContextDET) ⭐ 261 | 🐛 7 | 🌐 Python | 📅 2024-10-14
 
-[Fast Segment Anything](https://arxiv.org/abs/2306.12156), arxiv 2023 [\[code\]](https://github.com/CASIA-IVA-Lab/FastSAM) ⭐ 8,427 | 🐛 147 | 🌐 Python | 📅 2024-07-30
+[Fast Segment Anything](https://arxiv.org/abs/2306.12156), arxiv 2023 [\[code\]](https://github.com/CASIA-IVA-Lab/FastSAM) ⭐ 8,426 | 🐛 147 | 🌐 Python | 📅 2024-07-30
 
 [Multi-Modal Classifiers for Open-Vocabulary Object Detection](https://arxiv.org/abs/2306.05493), ICML 2023 [\[code\]](https://github.com/prannaykaul/mm-ovod) ⭐ 95 | 🐛 7 | 🌐 Python | 📅 2023-06-22
 
@@ -145,7 +145,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ### Domain-Specific Models
 
-[LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day](http://arxiv.org/abs/2306.00890), arxiv 2023 [\[code\]](https://github.com/microsoft/LLaVA-Med) ⭐ 2,237 | 🐛 107 | 🌐 Python | 📅 2025-06-04
+[LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day](http://arxiv.org/abs/2306.00890), arxiv 2023 [\[code\]](https://github.com/microsoft/LLaVA-Med) ⭐ 2,238 | 🐛 107 | 🌐 Python | 📅 2025-06-04
 
 ### Multimodal Evaluation
 
@@ -157,4 +157,4 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
