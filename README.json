@@ -146,7 +146,7 @@
                     "open_issues": 65,
                     "owner": "EvolvingLMMs-Lab",
                     "repo": "Otter",
-                    "stars": 3444,
+                    "stars": 3443,
                     "topics": [
                       "artificial-inteligence",
                       "chatgpt",
@@ -209,7 +209,7 @@
                     "open_issues": 101,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
-                    "stars": 2539,
+                    "stars": 2540,
                     "topics": [
                       "alpaca",
                       "chatbot",
@@ -251,7 +251,7 @@
                     "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11257,
+                    "stars": 11255,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -284,7 +284,7 @@
                     "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11257,
+                    "stars": 11255,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -388,7 +388,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22237,
+                    "stars": 22235,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -481,7 +481,7 @@
                     "open_issues": 1140,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25078,
+                    "stars": 25075,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33938,
+                    "stars": 33936,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -653,7 +653,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22237,
+                    "stars": 22235,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -719,7 +719,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8427,
+                    "stars": 8426,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -874,7 +874,7 @@
                     "open_issues": 40,
                     "owner": "ZrrSkywalker",
                     "repo": "Personalize-SAM",
-                    "stars": 1677,
+                    "stars": 1678,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -895,7 +895,7 @@
                     "open_issues": 596,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 55070,
+                    "stars": 55073,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -937,7 +937,7 @@
                     "open_issues": 31,
                     "owner": "google-research",
                     "repo": "pix2seq",
-                    "stars": 945,
+                    "stars": 944,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -965,7 +965,7 @@
                     "open_issues": 31,
                     "owner": "google-research",
                     "repo": "pix2seq",
-                    "stars": 945,
+                    "stars": 944,
                     "topics": [
                       "computer-vision",
                       "deep-learning",
@@ -1025,7 +1025,7 @@
                     "open_issues": 72,
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 1984,
+                    "stars": 1985,
                     "topics": [
                       "3d-generation",
                       "chatgpt",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T01:28:44.764Z",
+    "last_updated": "2026-10-29T01:52:20.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
