@@ -251,7 +251,7 @@
                     "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11257,
+                    "stars": 11256,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -284,7 +284,7 @@
                     "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11257,
+                    "stars": 11256,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -388,7 +388,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22238,
+                    "stars": 22239,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -481,7 +481,7 @@
                     "open_issues": 1140,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25080,
+                    "stars": 25081,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33921,
+                    "stars": 33918,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -603,7 +603,7 @@
                     "open_issues": 114,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2690,
+                    "stars": 2692,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -653,7 +653,7 @@
                     "open_issues": 690,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22238,
+                    "stars": 22239,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -895,7 +895,7 @@
                     "open_issues": 596,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 55085,
+                    "stars": 55095,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1025,7 +1025,7 @@
                     "open_issues": 72,
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 1987,
+                    "stars": 1988,
                     "topics": [
                       "3d-generation",
                       "chatgpt",
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:35:56.808Z",
+    "last_updated": "2026-11-03T03:30:59.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
