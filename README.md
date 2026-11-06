@@ -33,7 +33,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ## Survey Papers
 
-[A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549), arxiv 2023 [\[project page\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,077 | 🐛 117 | 📅 2026-10-29
+[A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549), arxiv 2023 [\[project page\]](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) ⭐ 18,078 | 🐛 118 | 📅 2026-10-29
 
 [Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/abs/2304.00685), arxiv 2023
 
@@ -43,7 +43,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [Shikra: Unleashing Multimodal LLM's Referential Dialogue Magic](https://arxiv.org/abs/2306.15195), arxiv 2023 [\[code\]](https://github.com/shikras/shikra) ⭐ 814 | 🐛 48 | 🌐 Python | 📅 2024-07-08
 
-[PandaGPT: One Model To Instruction-Follow Them All](http://arxiv.org/abs/2305.16355), arxiv 2023 [\[code\]](https://github.com/yxuansu/PandaGPT) ⭐ 866 | 🐛 25 | 🌐 Python | 📅 2023-06-01
+[PandaGPT: One Model To Instruction-Follow Them All](http://arxiv.org/abs/2305.16355), arxiv 2023 [\[code\]](https://github.com/yxuansu/PandaGPT) ⭐ 865 | 🐛 25 | 🌐 Python | 📅 2023-06-01
 
 [Shikra: Unleashing Multimodal LLM’s Referential Dialogue Magic](https://arxiv.org/abs/2306.15195), arxiv 2023 [\[code\]](https://github.com/shikras/shikra) ⭐ 814 | 🐛 48 | 🌐 Python | 📅 2024-07-08
 
@@ -71,7 +71,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages](https://arxiv.org/abs/2305.04160), arxiv 2023 [\[code\]](https://github.com/phellonchen/X-LLM) ⭐ 316 | 🐛 15 | 🌐 Python | 📅 2026-07-14
 
-[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485), arxiv 2023 [\[code\]](https://github.com/haotian-liu/LLaVA) ⭐ 25,077 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12
+[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485), arxiv 2023 [\[code\]](https://github.com/haotian-liu/LLaVA) ⭐ 25,076 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12
 
 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671), arxiv 2023 [\[code\]](https://github.com/microsoft/TaskMatrix) ⭐ 33,916 | 🐛 262 | 🌐 Python | 📅 2024-01-06
 
@@ -79,13 +79,13 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [Grounding Language Models to Images for Multimodal Inputs and Outputs](https://arxiv.org/abs/2301.13823), ICML 2023 [\[code\]](https://github.com/kohjingyu/fromage) ⭐ 482 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2023-10-30
 
-[OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework](https://arxiv.org/abs/2202.03052), ICML 2022 [\[code\]](https://github.com/OFA-Sys/OFA) ⭐ 2,554 | 🐛 113 | 🌐 Python | 📅 2024-04-24
+[OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework](https://arxiv.org/abs/2202.03052), ICML 2022 [\[code\]](https://github.com/OFA-Sys/OFA) ⭐ 2,555 | 🐛 113 | 🌐 Python | 📅 2024-04-24
 
 [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198), NeurIPS 2022
 
 ### Vision-Centric Understanding
 
-[LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/abs/2308.00692), arxiv 2023 [\[code\]](https://github.com/dvlab-research/LISA) ⭐ 2,691 | 🐛 114 | 🌐 Python | 📅 2025-02-16
+[LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/abs/2308.00692), arxiv 2023 [\[code\]](https://github.com/dvlab-research/LISA) ⭐ 2,690 | 🐛 114 | 🌐 Python | 📅 2025-02-16
 
 [Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279), arxiv 2023 [\[code\]](https://github.com/yuhangzang/ContextDET) ⭐ 261 | 🐛 7 | 🌐 Python | 📅 2024-10-14
 
@@ -93,7 +93,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279), arxiv 2023 [\[code\]](https://github.com/yuhangzang/ContextDET) ⭐ 261 | 🐛 7 | 🌐 Python | 📅 2024-10-14
 
-[Fast Segment Anything](https://arxiv.org/abs/2306.12156), arxiv 2023 [\[code\]](https://github.com/CASIA-IVA-Lab/FastSAM) ⭐ 8,430 | 🐛 147 | 🌐 Python | 📅 2024-07-30
+[Fast Segment Anything](https://arxiv.org/abs/2306.12156), arxiv 2023 [\[code\]](https://github.com/CASIA-IVA-Lab/FastSAM) ⭐ 8,431 | 🐛 147 | 🌐 Python | 📅 2024-07-30
 
 [Multi-Modal Classifiers for Open-Vocabulary Object Detection](https://arxiv.org/abs/2306.05493), ICML 2023 [\[code\]](https://github.com/prannaykaul/mm-ovod) ⭐ 95 | 🐛 7 | 🌐 Python | 📅 2023-06-22
 
@@ -111,7 +111,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [Personalize Segment Anything Model with One Shot](https://arxiv.org/abs/2305.03048), arxiv 2023 [\[code\]](https://github.com/ZrrSkywalker/Personalize-SAM) ⭐ 1,679 | 🐛 41 | 🌐 Python | 📅 2024-07-22
 
-[Segment Anything](https://arxiv.org/abs/2304.02643), arxiv 2023 [\[code\]](https://github.com/facebookresearch/segment-anything) ⭐ 55,098 | 🐛 596 | 🌐 Jupyter Notebook | 📅 2024-09-18
+[Segment Anything](https://arxiv.org/abs/2304.02643), arxiv 2023 [\[code\]](https://github.com/facebookresearch/segment-anything) ⭐ 55,099 | 🐛 596 | 🌐 Jupyter Notebook | 📅 2024-09-18
 
 [Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks](https://arxiv.org/abs/2211.09808), CVPR 2023 [\[code\]](https://github.com/fundamentalvision/Uni-Perceiver) ⭐ 290 | 🐛 9 | 🌐 Python | 📅 2025-08-14
 
@@ -149,7 +149,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ### Multimodal Evaluation
 
-[LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark](https://arxiv.org/abs/2306.06687), arxiv 2023 [\[code\]](https://github.com/OpenLAMM/LAMM) ⭐ 319 | 🐛 9 | 🌐 Python | 📅 2024-04-16
+[LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark](https://arxiv.org/abs/2306.06687), arxiv 2023 [\[code\]](https://github.com/OpenLAMM/LAMM) ⭐ 320 | 🐛 9 | 🌐 Python | 📅 2024-04-16
 
 [LOVM: Language-Only Vision Model Selection](https://arxiv.org/abs/2306.08893), arxiv 2023 [\[code\]](https://github.com/orrzohar/LOVM) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2024-02-03
 
@@ -157,4 +157,4 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
