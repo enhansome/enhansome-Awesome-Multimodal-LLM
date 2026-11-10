@@ -251,7 +251,7 @@
                     "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11256,
+                    "stars": 11255,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -284,7 +284,7 @@
                     "open_issues": 499,
                     "owner": "salesforce",
                     "repo": "LAVIS",
-                    "stars": 11256,
+                    "stars": 11255,
                     "topics": [
                       "deep-learning",
                       "deep-learning-library",
@@ -430,7 +430,7 @@
                     "open_issues": 11,
                     "owner": "OFA-Sys",
                     "repo": "ONE-PEACE",
-                    "stars": 1061,
+                    "stars": 1062,
                     "topics": [
                       "audio-language",
                       "contrastive-loss",
@@ -481,7 +481,7 @@
                     "open_issues": 1140,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25081,
+                    "stars": 25076,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33905,
+                    "stars": 33901,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -719,7 +719,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8433,
+                    "stars": 8434,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -895,7 +895,7 @@
                     "open_issues": 596,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 55110,
+                    "stars": 55116,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:46:54.877Z",
+    "last_updated": "2026-11-10T04:11:45.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
