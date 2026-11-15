@@ -209,7 +209,7 @@
                     "open_issues": 101,
                     "owner": "X-PLUG",
                     "repo": "mPLUG-Owl",
-                    "stars": 2538,
+                    "stars": 2539,
                     "topics": [
                       "alpaca",
                       "chatbot",
@@ -481,7 +481,7 @@
                     "open_issues": 1140,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25078,
+                    "stars": 25077,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33894,
+                    "stars": 33896,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -603,7 +603,7 @@
                     "open_issues": 114,
                     "owner": "JIA-Lab-research",
                     "repo": "LISA",
-                    "stars": 2691,
+                    "stars": 2693,
                     "topics": [
                       "large-language-model",
                       "llm",
@@ -719,7 +719,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8437,
+                    "stars": 8435,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -761,7 +761,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2599,
+                    "stars": 2597,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -820,7 +820,7 @@
                     "open_issues": 60,
                     "owner": "baaivision",
                     "repo": "Painter",
-                    "stars": 2599,
+                    "stars": 2597,
                     "topics": [
                       "cvpr2023",
                       "generalist-model",
@@ -895,7 +895,7 @@
                     "open_issues": 597,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 55134,
+                    "stars": 55136,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:30:48.488Z",
+    "last_updated": "2026-11-15T01:59:23.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
