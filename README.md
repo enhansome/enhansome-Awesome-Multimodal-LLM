@@ -71,13 +71,13 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages](https://arxiv.org/abs/2305.04160), arxiv 2023 [\[code\]](https://github.com/phellonchen/X-LLM) ⭐ 316 | 🐛 15 | 🌐 Python | 📅 2026-07-14
 
-[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485), arxiv 2023 [\[code\]](https://github.com/haotian-liu/LLaVA) ⭐ 25,077 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12
+[Visual Instruction Tuning](https://arxiv.org/abs/2304.08485), arxiv 2023 [\[code\]](https://github.com/haotian-liu/LLaVA) ⭐ 25,076 | 🐛 1,140 | 🌐 Python | 📅 2024-08-12
 
-[Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671), arxiv 2023 [\[code\]](https://github.com/microsoft/TaskMatrix) ⭐ 33,892 | 🐛 262 | 🌐 Python | 📅 2024-01-06
+[Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671), arxiv 2023 [\[code\]](https://github.com/microsoft/TaskMatrix) ⭐ 33,893 | 🐛 262 | 🌐 Python | 📅 2024-01-06
 
 [PaLI: A Jointly-Scaled Multilingual Language-Image Model](http://arxiv.org/abs/2209.06794), ICLR 2023 [\[blog\]](https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html)
 
-[Grounding Language Models to Images for Multimodal Inputs and Outputs](https://arxiv.org/abs/2301.13823), ICML 2023 [\[code\]](https://github.com/kohjingyu/fromage) ⭐ 482 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2023-10-30
+[Grounding Language Models to Images for Multimodal Inputs and Outputs](https://arxiv.org/abs/2301.13823), ICML 2023 [\[code\]](https://github.com/kohjingyu/fromage) ⭐ 483 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2023-10-30
 
 [OFA: Unifying Architectures, Tasks, and Modalities Through a Simple Sequence-to-Sequence Learning Framework](https://arxiv.org/abs/2202.03052), ICML 2022 [\[code\]](https://github.com/OFA-Sys/OFA) ⭐ 2,556 | 🐛 113 | 🌐 Python | 📅 2024-04-24
 
@@ -85,7 +85,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ### Vision-Centric Understanding
 
-[LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/abs/2308.00692), arxiv 2023 [\[code\]](https://github.com/dvlab-research/LISA) ⭐ 2,693 | 🐛 114 | 🌐 Python | 📅 2025-02-16
+[LISA: Reasoning Segmentation via Large Language Model](https://arxiv.org/abs/2308.00692), arxiv 2023 [\[code\]](https://github.com/dvlab-research/LISA) ⭐ 2,694 | 🐛 114 | 🌐 Python | 📅 2025-02-16
 
 [Contextual Object Detection with Multimodal Large Language Models](https://arxiv.org/abs/2305.18279), arxiv 2023 [\[code\]](https://github.com/yuhangzang/ContextDET) ⭐ 261 | 🐛 7 | 🌐 Python | 📅 2024-10-14
 
@@ -111,7 +111,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 [Personalize Segment Anything Model with One Shot](https://arxiv.org/abs/2305.03048), arxiv 2023 [\[code\]](https://github.com/ZrrSkywalker/Personalize-SAM) ⭐ 1,680 | 🐛 41 | 🌐 Python | 📅 2024-07-22
 
-[Segment Anything](https://arxiv.org/abs/2304.02643), arxiv 2023 [\[code\]](https://github.com/facebookresearch/segment-anything) ⭐ 55,136 | 🐛 597 | 🌐 Jupyter Notebook | 📅 2024-09-18
+[Segment Anything](https://arxiv.org/abs/2304.02643), arxiv 2023 [\[code\]](https://github.com/facebookresearch/segment-anything) ⭐ 55,144 | 🐛 597 | 🌐 Jupyter Notebook | 📅 2024-09-18
 
 [Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks](https://arxiv.org/abs/2211.09808), CVPR 2023 [\[code\]](https://github.com/fundamentalvision/Uni-Perceiver) ⭐ 291 | 🐛 9 | 🌐 Python | 📅 2025-08-14
 
@@ -123,7 +123,7 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ### Embodied-Centric Understanding
 
-[Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://arxiv.org/abs/2307.14535), arxiv 2023 [\[code\]](https://github.com/columbia-ai-robotics/scalingup) ⭐ 412 | 🐛 8 | 🌐 Python | 📅 2024-08-12
+[Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition](https://arxiv.org/abs/2307.14535), arxiv 2023 [\[code\]](https://github.com/columbia-ai-robotics/scalingup) ⭐ 413 | 🐛 8 | 🌐 Python | 📅 2024-08-12
 
 [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://robotics-transformer2.github.io/assets/rt2.pdf), preprint [\[project page\]](https://www.deepmind.com/blog/rt-2-new-model-translates-vision-and-language-into-action)
 
@@ -157,4 +157,4 @@ A curated list of papers related to multi-modal machine learning, especially mul
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
