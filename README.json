@@ -388,7 +388,7 @@
                     "open_issues": 692,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22247,
+                    "stars": 22248,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -481,7 +481,7 @@
                     "open_issues": 1140,
                     "owner": "haotian-liu",
                     "repo": "LLaVA",
-                    "stars": 25080,
+                    "stars": 25086,
                     "topics": [
                       "chatbot",
                       "chatgpt",
@@ -653,7 +653,7 @@
                     "open_issues": 692,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22247,
+                    "stars": 22248,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -895,7 +895,7 @@
                     "open_issues": 598,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 55166,
+                    "stars": 55170,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1138,7 +1138,7 @@
                     "open_issues": 109,
                     "owner": "microsoft",
                     "repo": "LLaVA-Med",
-                    "stars": 2239,
+                    "stars": 2240,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T03:34:06.731Z",
+    "last_updated": "2026-11-21T03:17:27.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
