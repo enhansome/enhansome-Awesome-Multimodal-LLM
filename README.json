@@ -385,10 +385,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-21T03:27:00Z",
-                    "open_issues": 692,
+                    "open_issues": 691,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22251,
+                    "stars": 22252,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -516,7 +516,7 @@
                     "open_issues": 262,
                     "owner": "chenfei-wu",
                     "repo": "TaskMatrix",
-                    "stars": 33883,
+                    "stars": 33884,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -650,10 +650,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-21T03:27:00Z",
-                    "open_issues": 692,
+                    "open_issues": 691,
                     "owner": "microsoft",
                     "repo": "unilm",
-                    "stars": 22251,
+                    "stars": 22252,
                     "topics": [
                       "beit",
                       "beit-3",
@@ -719,7 +719,7 @@
                     "open_issues": 147,
                     "owner": "CASIA-LMC-Lab",
                     "repo": "FastSAM",
-                    "stars": 8446,
+                    "stars": 8448,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -790,7 +790,7 @@
                     "open_issues": 69,
                     "owner": "DAMO-NLP-SG",
                     "repo": "Video-LLaMA",
-                    "stars": 3139,
+                    "stars": 3138,
                     "topics": [
                       "blip2",
                       "cross-modal-pretraining",
@@ -874,7 +874,7 @@
                     "open_issues": 41,
                     "owner": "ZrrSkywalker",
                     "repo": "Personalize-SAM",
-                    "stars": 1681,
+                    "stars": 1682,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -895,7 +895,7 @@
                     "open_issues": 598,
                     "owner": "facebookresearch",
                     "repo": "segment-anything",
-                    "stars": 55175,
+                    "stars": 55182,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1025,7 +1025,7 @@
                     "open_issues": 72,
                     "owner": "OpenMotionLab",
                     "repo": "MotionGPT",
-                    "stars": 2007,
+                    "stars": 2006,
                     "topics": [
                       "3d-generation",
                       "chatgpt",
@@ -1084,7 +1084,7 @@
                     "open_issues": 0,
                     "owner": "jimmyyhwu",
                     "repo": "tidybot",
-                    "stars": 693,
+                    "stars": 694,
                     "topics": [
                       "gpt-3",
                       "large-language-models",
@@ -1138,7 +1138,7 @@
                     "open_issues": 109,
                     "owner": "microsoft",
                     "repo": "LLaVA-Med",
-                    "stars": 2242,
+                    "stars": 2244,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:11:25.432Z"
@@ -1211,7 +1211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:56:38.116Z",
+    "last_updated": "2026-11-26T04:12:32.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reading list for Multimodal Large Language Models ",
